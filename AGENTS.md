@@ -1,0 +1,2 @@
+- The cultural engagement portal is a single scrollable home route with local React state for all showcase interactions; the attached brief explicitly requests a frontend-only workspace with no backend.
+- Portal imagery is generated and imported from `src/assets/`; this keeps the media available without external hotlinks.
